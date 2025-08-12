@@ -46,14 +46,9 @@ I have solid experience with **Node.js** ecosystem, API development, and databas
 
 ## 📫 Contact Me
 
-<a href="https://www.linkedin.com/in/m3hmoud-tarek" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
-</a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mahmoudelgamily328@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail"/>
-</a>
-<a href="https://wa.me/201022508230" target="_blank">
-  <img src="https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" alt="WhatsApp"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/m3hmoud-tarek)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](https://mail.google.com/mail/?view=cm&fs=1&to=mahmoudelgamily328@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/201022508230)
+
 
 ---
