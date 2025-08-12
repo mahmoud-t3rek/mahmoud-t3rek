@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Mahmoud Tarek
 
-<!--
-**mahmoud-t3rek/mahmoud-t3rek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend Developer | Node.js Specialist**
 
-Here are some ideas to get you started:
+I’m a backend developer passionate about building secure, scalable, and efficient server-side applications.  
+I work mainly with **Node.js** and have experience in both **SQL** and **NoSQL** databases.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Skills & Technologies
+
+**Backend**
+- Node.js, Express.js
+- API Development & RESTful Services
+- Authentication & Authorization
+- Error Handling
+- Multer (File Uploads)
+- Joi (Validation)
+
+**Databases**
+- MongoDB & Mongoose
+- SQL / NoSQL
+
+**Other Tools**
+- Git & GitHub
+- Postman
+- VS Code
+
+---
+
+## 📈 GitHub Stats
+
+![Mahmoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahmoud-t3rek&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Contact Me
+- **Email:** mahmoudelgamily328@gmail.com
+- **LinkedIn:** [linkedin.com/in/your-link](www.linkedin.com/in/m3hmoud-tarek)
+- **Telegram:** [@your-telegram](https://t.me/your-telegram)
+
+---
