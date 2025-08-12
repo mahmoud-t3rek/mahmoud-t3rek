@@ -47,8 +47,7 @@ I have solid experience with **Node.js** ecosystem, API development, and databas
 ## 📫 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/m3hmoud-tarek)
-[![Email](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:mahmoudelgamily328@gmail.com)
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/01022508230)
-[![Phone](https://img.shields.io/badge/-Call%20Me-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)](tel:+201022508230)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](https://mail.google.com/mail/?view=cm&fs=1&to=mahmoudelgamily328@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/201022508230)
 
 ---
