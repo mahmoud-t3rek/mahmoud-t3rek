@@ -37,7 +37,9 @@ I have solid experience with **Node.js** ecosystem, API development, and databas
 - Linux Basics for Deployment
 
 ---
-
+## 📈 GitHub Stats
+![Mahmoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahmoud-t3rek&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-t3rek&layout=compact&theme=tokyonight)
 
 
 ---
