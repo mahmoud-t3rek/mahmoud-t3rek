@@ -29,7 +29,7 @@ I have solid experience with **Node.js** ecosystem, API development, and databas
 
 **Databases**
 - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![Mongoose](https://img.shields.io/badge/-Mongoose-880000)
-- MySQL / PostgreSQL
+- MySQL 
 - Database Design & Optimization
 
 **Other Tools**
