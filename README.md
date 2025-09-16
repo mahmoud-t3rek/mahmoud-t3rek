@@ -2,8 +2,7 @@
 
 **Backend Developer | Node.js & Database Specialist**
 
-I’m a backend developer passionate about building **secure**, **scalable**, and **high-performance** server-side applications.  
-I have solid experience with **Node.js** ecosystem, API development, and database management (**SQL & NoSQL**).
+I’m a backend developer passionate about building secure, scalable, and high-performance server-side applications. I have hands-on experience with the Node.js ecosystem, API development, and database management (SQL & NoSQL)
 
 ---
 
