@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mahmoud Tarek [translate:بص دا readme بتاعى على جيت هب محتاج منك تضيف nes,socketio,graphQl ,zod,Aws S3congig]
+# 👋 Hi, I'm Mahmoud Tarek
 
 **Backend Developer | Node.js & Database Specialist**
 
@@ -54,5 +54,3 @@ I’m a backend developer passionate about building secure, scalable, and high-p
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/m3hmoud-tarek)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](https://mail.google.com/mail/?view=cm&fs=1&to=mahmoudelgamily328@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/201022508230)
-
----
