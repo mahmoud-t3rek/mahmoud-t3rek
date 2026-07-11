@@ -51,7 +51,7 @@ I'm always learning — I enjoy picking up new tools and concepts and steadily l
 <br>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mahmoud-t3rek&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="60%" />
+<img src="https://github-stats-extended.vercel.app/api?username=mahmoud-t3rek&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="60%" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2196F3,100:0D47A1&height=2" />
