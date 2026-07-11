@@ -35,7 +35,13 @@ I'm always learning — I enjoy picking up new tools and concepts and steadily l
 <br>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,socketio,graphql,ts,js,mongodb,mysql,postgresql,redis,git,github,postman,vscode,docker,aws,linux&perline=12" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,ts,js,mongodb,mysql,postgres,redis,git,vscode,docker,aws,linux&perline=10" />
+
+<br><br>
+
+![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2196F3,100:0D47A1&height=2" />
