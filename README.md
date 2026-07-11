@@ -13,14 +13,17 @@
 <br>
 
 I'm a backend developer passionate about building secure, scalable, and high-performance server-side applications.
-I work with **Node.js**, **NestJS**, **WebSockets**, **GraphQL**, **Zod**, and **AWS services** — with strong experience in SQL & NoSQL databases.
-
+<br>
+I work with **Node.js**, **NestJS**, **WebSockets**, **GraphQL**, **Zod**, and **AWS services**.
+<br>
+Strong experience with SQL & NoSQL databases.
+<br>
 I'm always learning — I enjoy picking up new tools and concepts and steadily leveling up my skills.
 
 <br>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=2196F3&center=true&vCenter=true&width=750&height=40&repeat=true&lines=%F0%9F%92%BB+Specializing+in+Node.js+%26+NestJS+backend+development;%E2%9A%A1+Building+real-time+apps+with+Socket.IO;%F0%9F%94%97+Working+with+GraphQL+(Apollo+%26+Nest+GraphQL);%F0%9F%97%84+Experienced+in+MongoDB%2C+Mongoose+%26+SQL;%E2%9A%99%EF%B8%8F+Skilled+in+RESTful+API+design+%26+authentication;%F0%9F%93%A6+Data+validation+with+Joi+%26+Zod%2C+uploads+with+Multer;%E2%98%81%EF%B8%8F+Experience+with+AWS+S3+storage;%F0%9F%8C%B1+Learning+system+architecture+%26+scalable+design" alt="About Me Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=000000&center=true&vCenter=true&width=750&height=40&repeat=true&lines=%F0%9F%92%BB+Specializing+in+Node.js+%26+NestJS+backend+development;%E2%9A%A1+Building+real-time+apps+with+Socket.IO;%F0%9F%94%97+Working+with+GraphQL+(Apollo+%26+Nest+GraphQL);%F0%9F%97%84+Experienced+in+MongoDB%2C+Mongoose+%26+SQL;%E2%9A%99%EF%B8%8F+Skilled+in+RESTful+API+design+%26+authentication;%F0%9F%93%A6+Data+validation+with+Joi+%26+Zod%2C+uploads+with+Multer;%E2%98%81%EF%B8%8F+Experience+with+AWS+S3+storage;%F0%9F%8C%B1+Learning+system+architecture+%26+scalable+design" alt="About Me Typing" />
 </div>
 
 <br>
@@ -32,9 +35,17 @@ I'm always learning — I enjoy picking up new tools and concepts and steadily l
 <br>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,socketio,graphql,ts,js&perline=8" />
-<br><br>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,git,postman,vscode,docker,aws,linux&perline=8" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,socketio,graphql,ts,js,mongodb,mysql,postgresql,redis,git,github,postman,vscode,docker,aws,linux&perline=12" />
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2196F3,100:0D47A1&height=2" />
+
+## 📊 GitHub Activity
+
+<br>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mahmoud-t3rek&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="60%" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2196F3,100:0D47A1&height=2" />
