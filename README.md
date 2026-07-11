@@ -1,20 +1,17 @@
 <div align="center">
 
-# 👋 Hi, I'm Mahmoud Tarek
-### Backend Developer | Node.js, NestJS & Database Specialist
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mahmoud+Tarek+%F0%9F%91%8B;Backend+Developer+%7C+Node.js+%26+NestJS;Building+Secure+%26+Scalable+APIs" alt="Typing SVG" />
 
-I'm a backend developer passionate about building secure, scalable, and high-performance server-side applications.
-I work with **Node.js**, **NestJS**, **WebSockets**, **GraphQL**, **Zod**, and **AWS services** — with strong experience in SQL & NoSQL databases.
+![Profile Views](https://komarev.com/ghpvc/?username=mahmoud-t3rek&color=blue&style=flat-square&label=Profile+Views)
 
 </div>
 
----
-
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:0D47A1&height=120&section=header" />
 
 ## 🚀 About Me
 
-</div>
+I'm a backend developer passionate about building secure, scalable, and high-performance server-side applications.
+I work with **Node.js**, **NestJS**, **WebSockets**, **GraphQL**, **Zod**, and **AWS services** — with strong experience in SQL & NoSQL databases.
 
 - 💻 Specializing in **Node.js & NestJS** backend development.
 - ⚡ Building **real-time applications** using **Socket.IO**.
@@ -26,9 +23,7 @@ I work with **Node.js**, **NestJS**, **WebSockets**, **GraphQL**, **Zod**, and *
 - 🛠 Strong understanding of **Git**, teamwork, and deployment workflows.
 - 🌱 Currently improving my skills in **system architecture** and **scalable backend solutions**.
 
----
-
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2196F3,100:0D47A1&height=2" />
 
 ## 🛠 Skills & Technologies
 
@@ -47,6 +42,7 @@ RESTful API Development · GraphQL API Development · Authentication & Authoriza
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat-square)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 Database Design & Optimization
 
@@ -57,30 +53,35 @@ Database Design & Optimization
 ![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Zod](https://img.shields.io/badge/-Zod-3E67B1?style=flat-square)
 ![AWS S3](https://img.shields.io/badge/-AWS_S3-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 Linux Basics for Deployment
 
-</div>
-
----
-
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2196F3,100:0D47A1&height=2" />
 
 ## 📈 GitHub Stats
 
-![Mahmoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahmoud-t3rek&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-t3rek&layout=compact&theme=tokyonight&hide_border=true)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mahmoud-t3rek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-t3rek&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoud-t3rek&theme=tokyonight&hide_border=true" width="60%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmoud-t3rek&theme=tokyo-night&hide_border=true" width="90%" />
 
 </div>
 
----
-
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2196F3,100:0D47A1&height=2" />
 
 ## 📫 Contact Me
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m3hmoud-tarek)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoudelgamily328@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201022508230)
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:0D47A1&height=100&section=footer" />
