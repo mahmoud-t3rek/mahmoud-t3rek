@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mahmoud+Tarek+%F0%9F%91%8B;Backend+Developer+%7C+Node.js+%26+NestJS;Building+Secure+%26+Scalable+APIs" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=000000&center=true&vCenter=true&width=700&height=60&lines=Hi%2C+I'm+Mahmoud+Tarek+%F0%9F%91%8B" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Backend+Developer+%7C+Node.js+%26+NestJS;Building+Secure+%26+Scalable+APIs" alt="Typing SVG" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mahmoud-t3rek&color=blue&style=flat-square&label=Profile+Views)
 
