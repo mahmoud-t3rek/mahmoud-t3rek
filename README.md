@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=000000&center=true&vCenter=true&width=700&height=60&lines=Hi%2C+I'm+Mahmoud+Tarek+%F0%9F%91%8B" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=34&pause=1000&color=000000&center=true&vCenter=true&width=700&height=65&lines=Hi%2C+I'm+Mahmoud+Tarek+%F0%9F%91%8B" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=Backend+Developer+%7C+Node.js+%26+NestJS;Building+Secure+%26+Scalable+APIs" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=20&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=Backend+Developer+%7C+Node.js+%26+NestJS;Building+Secure+%26+Scalable+APIs" alt="Typing SVG" />
 
 </div>
 
@@ -35,7 +35,7 @@ I work with **Node.js**, **NestJS**, **WebSockets**, **GraphQL**, **Zod**, and *
 
 <br>
 
-**Backend**
+### Backend
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,socketio,graphql,ts" />
@@ -47,7 +47,7 @@ RESTful API Development · GraphQL API Development · Authentication & Authoriza
 
 <br>
 
-**Databases**
+### Databases
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
@@ -59,7 +59,7 @@ Database Design & Optimization
 
 <br>
 
-**Other Tools**
+### Other Tools
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=git,postman,vscode,docker,aws,linux" />
