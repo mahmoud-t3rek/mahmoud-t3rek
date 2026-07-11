@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=34&pause=1000&color=000000&center=true&vCenter=true&width=700&height=65&lines=Hi%2C+I'm+Mahmoud+Tarek+%F0%9F%91%8B" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=20&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Node.js%2C+NestJS;Building+Secure+%26+Scalable+APIs" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=20&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Node.js%2C+NestJS" alt="Typing SVG" />
 
 </div>
 
@@ -51,11 +51,9 @@ I'm always learning — I enjoy picking up new tools and concepts and steadily l
 <br>
 
 <div align="center">
-<div align="center">
 <img src="https://github-stats-extended.vercel.app/api?username=mahmoud-t3rek&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=stars,prs,issues,contribs&custom_title=Total+Commits" width="30%" />
 <img src="https://github-stats-extended.vercel.app/api?username=mahmoud-t3rek&show_icons=true&theme=tokyonight&hide_border=true&hide=stars,commits,issues,contribs&custom_title=Total+PRs" width="30%" />
 <img src="https://github-stats-extended.vercel.app/api?username=mahmoud-t3rek&show_icons=true&theme=tokyonight&hide_border=true&hide=stars,commits,prs,issues&custom_title=Contributed+To" width="30%" />
-</div>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2196F3,100:0D47A1&height=2" />
@@ -66,14 +64,22 @@ I'm always learning — I enjoy picking up new tools and concepts and steadily l
 
 <div align="center">
 
-Feel free to reach out — always open to talk backend, opportunities, or collaborations.
+### Let's talk backend, opportunities, or just tech in general 🚀
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m3hmoud-tarek)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoudelgamily328@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201022508230)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahmoud-t3rek)
+<a href="https://www.linkedin.com/in/m3hmoud-tarek">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:mahmoudelgamily328@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://wa.me/201022508230">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+<a href="https://github.com/mahmoud-t3rek">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
